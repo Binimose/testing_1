@@ -1,1 +1,2 @@
-print("register")
+print("register1")
+print("register2")
